@@ -1,0 +1,7 @@
+.static-box{
+    position:static;
+    border: solid;
+    border-color: black;
+    margin: 10px;
+}
+.relative 
